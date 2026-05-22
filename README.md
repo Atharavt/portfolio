@@ -1,10 +1,10 @@
-# 🌐 Personal Portfolio - Sharan Ligade
+# 🌐 Personal Portfolio - Atharav Thakare
 
 This is my personal portfolio website built to showcase my skills, projects, and ways to contact me.  
 It's a fully responsive single-page site created using **HTML, CSS, and a little JavaScript**.
 
-> 🔗 **Live Demo:** https://sharanligade-portfolio.netlify.app/  
-> 🧑‍💻 **GitHub Repo:** https://github.com/sharanligade/sharan-ligade-portfolio
+> 🔗 **Live Demo:** https://atharavthakareportfolio.netlify.app  
+> 🧑‍💻 **GitHub Repo:** https://github.com/Atharavt/portfolio
 
 ---
 
@@ -35,5 +35,5 @@ It's a fully responsive single-page site created using **HTML, CSS, and a little
 .
 ├── index.html                     # Main single-page portfolio
 ├── style.css                      # Styles for the entire site
-├── my-photo.jpg.jpeg              # Hero/profile image
-└── Sharan_Ligade_Resume.pdf       # Downloadable resume
+├── atharav_photo.png              # Hero/profile image
+└── atharav_thakare_resume.pdf       # Downloadable resume
